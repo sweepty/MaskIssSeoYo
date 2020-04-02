@@ -56,5 +56,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>현재 위치에 접근하여 주변 마스크 재고를 확인하고자 합니다.</string>
 </dict>
 </plist>
